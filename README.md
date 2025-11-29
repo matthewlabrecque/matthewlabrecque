@@ -1,22 +1,8 @@
-## Hi there 👋
+# Matthew "mhlab" Heenan Labrecque
+
 I'm a Computational Mathematics/Computer Science student at the [University of New Hampshire](https://ceps.unh.edu/).
 
-- I'm currently learning about the Linux System works and how to work on low-level systems.
-- I'm currently working on several projects:
-  - An autoconfig script similar to Omakub for Fedora Linux
-  - A homelab for self-hosting most of my data/services
-  - A cyberdeck build for legal hacking (I will become [Aiden Pearce](https://watchdogs.fandom.com/wiki/Aiden_Pearce))
-<!--
-**mhlab603/mhlab603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently working on
+    - openSwaynord -> A preconfigured, opinionated openSUSE spin designed for programmers.
+    - A Homelab for self-hosting most of my data/services
+    - A cyberdeck build for legal hacking (I will become [Aiden Pearce](https://watchdogs.fandom.com/wiki/Aiden_Pearce
