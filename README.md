@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I'm Matthew
 
-I'm a Computational Mathematics/Computer Science student at the [University of New Hampshire](https://ceps.unh.edu/). Currently, I work at the [UNH InterOperability Laboratory](https://www.iol.unh.edu/) Open-Source Team where I do development on [DPDK](https://en.wikipedia.org/wiki/Data_Plane_Development_Kit). My main languages I use are Python, Go, Rust, Java, and C/C++. I also have skills in SQL, CI/CD development, and open-source development.
+I'm a Computational Mathematics/Computer Science student at the [University of New Hampshire](https://ceps.unh.edu/). Currently, I work at the [UNH InterOperability Laboratory](https://www.iol.unh.edu/) on the Open-Source Team where I do development on [DPDK](https://en.wikipedia.org/wiki/Data_Plane_Development_Kit). My main languages I use are Python, Go, Rust, Java, and C/C++. I also have skills in SQL, CI/CD development, and open-source development.
 
 ## Currently, I'm building:
 - A script for Arch Linux which I built to enable the instant deployment of a basic Arch system with proper security/firewall configurations in place. I used this project as an opportiunity to learn how BASH scripting works in Linux as well as how package managers work.
